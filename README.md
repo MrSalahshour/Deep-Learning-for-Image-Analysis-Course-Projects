@@ -6,3 +6,5 @@
 - t-SNE of representations (CIFAR10)
 - grad-CAM (ImageNet)
 - activation maximization (ImageNet)
+
+3 - Self-Supervised Contrastive Learning with SimCLR 
