@@ -12,3 +12,5 @@
 4 - AutoEncoders and its variants, VAEs
 
 5 - Train and test U-Net model to perform binary image segmentation with Whole Slide Images (WSI).
+
+6 - Generative Model by Denoising Score Networks: Implement and compare deterministic Euler and stochastic Langevin dynamics sampling methods to generate new samples from this distribution using the known score
