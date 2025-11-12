@@ -8,3 +8,5 @@
 - activation maximization (ImageNet)
 
 3 - Self-Supervised Contrastive Learning with SimCLR 
+
+4 - AutoEncoders and its variants, VAEs
