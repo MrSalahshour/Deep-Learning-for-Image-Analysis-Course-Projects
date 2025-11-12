@@ -10,3 +10,5 @@
 3 - Self-Supervised Contrastive Learning with SimCLR 
 
 4 - AutoEncoders and its variants, VAEs
+
+5 - Train and test U-Net model to perform binary image segmentation with Whole Slide Images (WSI).
